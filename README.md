@@ -10,10 +10,9 @@ I am a bachelor's student at the university of Gothenburg| Chalmers University o
 - 📫 Find me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/akuien-a-deng-4b5a701b4)
 - ⚡ Fun fact: I enjoy playing basketball, exercising, talking with people and music.
 
+![My stats](https://github-readme-stats.vercel.app/api?username=Akuien)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akuien&layout=compact)](https://github.com/github-readme-stats)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Akuien&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akuien&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akuien&label=Profile%20views&color=0e75b6&style=flat" alt="Akuien" /> </p>
 
