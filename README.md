@@ -12,7 +12,7 @@ I am a bachelor's student at the university of Gothenburg| Chalmers University o
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Akuien)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akuien&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akuien)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akuien&label=Profile%20views&color=0e75b6&style=flat" alt="Akuien" /> </p>
 
