@@ -10,8 +10,8 @@ Previously obtained a bachelors degree in Software Engineering & Management at t
 - 🔭 Currently working on different projects and will be available soon.
 - 🤔 I’m interested in solving real world problems and learning new tech while helping others.
 - 📫 Find me on
-    - LinkedIn: [LinkedIn](www.linkedin.com/in/akuien-akoi-deng-4b5a701b4)
-    - ✉️ [Email me](mailto:akuiendng@gmail.com)
+    - [LinkedIn](www.linkedin.com/in/akuien-akoi-deng-4b5a701b4)
+    - ✉️[Email](akuiendng@gmail.com)
 
     - **Applied Machine learning and frameworks:** *PyTorch, TensorFlow, Pandas, Numpy, Adversarial ML.*
     - **CyberSecurity tools & frameworks:** *Metasploit(pentest), Nmap, WireShark, Burpsuite.*
