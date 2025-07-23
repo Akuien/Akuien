@@ -3,6 +3,8 @@
 #### My name is ✨ Akuien✨
 
 Currently a masters student in Computer and System Science at Stockholm University.
+
+
 Previously obtained a bachelors degree in Software Engineering & Management at the university of Gothenburg(GU) | Chalmers University of technology (CUoT).
 
 - 🔭 Currently working on different projects and will be available soon.
