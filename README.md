@@ -8,7 +8,7 @@ Currently a masters student in Computer and System Science at Stockholm Universi
 Previously obtained a bachelors degree in Software Engineering & Management at the university of Gothenburg(GU) | Chalmers University of technology (CUoT).
 
 - 🔭 Currently working on different projects and will be available soon.
-- 🤔 I’m interested in solving real world problems and learnig new tech while helping others.
+- 🤔 I’m interested in solving real world problems and learning new tech while helping others.
 - 📫 Find me on
     - LinkedIn: [LinkedIn](www.linkedin.com/in/akuien-akoi-deng-4b5a701b4)
     - ✉️ [Email me](mailto:akuiendng@gmail.com)
