@@ -2,13 +2,18 @@
 
 #### My name is ✨ Akuien✨
 
-I am a bachelor's student at the university of Gothenburg| Chalmers University of technology doing software enginnering and management.
+Currently a masters student in Computer and System Science at Stockholm University.
+Previously obtained a bachelors degree in Software Engineering & Management at the university of Gothenburg(GU) | Chalmers University of technology (CUoT).
 
-- 🔭 I’m currently working on different projects and will be available soon here.
-- 🌱 I’m currently learning JavaScript, React and CSS
-- 🤔 I’m interested in solving problems and learnig new tech while helping others.
-- 📫 Find me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/akuien-a-deng-4b5a701b4)
-- ⚡ Fun fact: I enjoy playing basketball, exercising, talking with people and music.
+- 🔭 Currently working on different projects and will be available soon.
+- 🤔 I’m interested in solving real world problems and learnig new tech while helping others.
+- 📫 Find me on
+    - LinkedIn: [LinkedIn](www.linkedin.com/in/akuien-akoi-deng-4b5a701b4)
+    - ✉️ [Email me](mailto:akuiendng@gmail.com)
+
+    - **Applied Machine learning and frameworks:** *PyTorch, TensorFlow, Pandas, Numpy, Adversarial ML.*
+    - **CyberSecurity tools & frameworks:** *Metasploit(pentest), Nmap, WireShark, Burpsuite.*
+    - **Web tools & frameworks:** *VueJS, NodeJS, ReactJS.*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akuien&layout=compact&card_width=450(https://github.com/anuraghazra/github-readme-stats))
 
