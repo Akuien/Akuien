@@ -13,7 +13,7 @@ Previously obtained a bachelors degree in Software Engineering & Management at t
     - [LinkedIn](www.linkedin.com/in/akuien-akoi-deng-4b5a701b4)
     - ✉️[Email](akuiendng@gmail.com)
 
-    - **Applied Machine learning Library:** *PyTorch, TensorFlow, Pandas, Numpy, Adversarial ML.*
+    - **Applied Machine learning Libraries:** *PyTorch, TensorFlow, Pandas, Numpy, Adversarial ML.*
     - **CyberSecurity tools & frameworks:** *Metasploit(pentest), Nmap, WireShark, Burpsuite.*
     - **Web tools & frameworks:** *VueJS, NodeJS, ReactJS.*
 
